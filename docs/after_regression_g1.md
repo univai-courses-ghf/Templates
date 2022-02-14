@@ -26,7 +26,7 @@ Here are some useful links to help you re-visit the material:
 
 We are looking forward to answering your questions and seeing your homework results!
 
-The next workshop in the {{page.color}} series (you can register by clicking the link) is [{{next_workshop_name}}]({{page.next_workshop_link}}) on {{page.next_workshop_date}}. Our entire current series of data science workshops is below. You can take any workshop as many times as you want; so if you feel you need to do any workshop again, just take it in another color series.
+The next workshop in the {{page.color}} series (you can register by clicking the link) is [{{page.next_workshop_name}}]({{page.next_workshop_link}}) on {{page.next_workshop_date}}. Our entire current series of data science workshops is below. You can take any workshop as many times as you want; so if you feel you need to do any workshop again, just take it in another color series.
 
 ![DS Series](https://github.com/univai-ghf/ghfmedia/raw/main/images/ds-series.png)
 
