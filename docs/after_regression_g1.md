@@ -36,4 +36,4 @@ Thanks!
 
 Rahul Dave
 
-Chief Scientist,[ Univ.AI](https://univ.ai/)
+Chief Scientist, [Univ.AI](https://univ.ai/)
