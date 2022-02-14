@@ -1,5 +1,4 @@
 ---
-layout: afterworkshop
 wsname: Regression
 topic: Regression
 color: green
@@ -14,4 +13,4 @@ next_workshop_link: "https://community.univ.ai/courses/real-world-classification
 next_workshop_date: "Saturday 19th Feb at 10am IST"
 ---
 
-BADA BADA BOOM
+{% include_relative _includes/afterworkshop.md %}
