@@ -30,7 +30,7 @@ The next workshop in the {{page.color}} series (you can register by clicking the
 
 ![DS Series](https://github.com/univai-ghf/ghfmedia/raw/main/images/ds-series.png)
 
-You can check out the calendar of the entire GHF Workshop Series [ **here**](https://community.univ.ai/sequences/). Click on any series on the left to register for the workshops in it.
+You can check out the calendar of the entire GHF Workshop Series [ **here**](https://community.univ.ai/sequences/). Click on any series on the left on that page to register for the workshops in it.
 
 Thanks!
 
