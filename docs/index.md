@@ -32,3 +32,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 1. [after_regression_g1.md](after_regression_g1.md)
 2. [after_python_b1.md](after_python_b1.md)
+3. [after_commandline.md](after_commandline.md)
