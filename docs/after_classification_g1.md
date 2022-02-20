@@ -8,8 +8,8 @@ thread_main: "https://discourse.univ.ai/t/questions-for-the-real-world-classific
 homework_notebook_file: Classification_exercise.ipynb
 submission_date: "Sunday 27th Feb"
 thread_homework: "https://discourse.univ.ai/t/homework-discussions-for-the-real-world-classification-workshop/11935/2"
-next_workshop_name: "Feature Processing"
-next_workshop_link: "https://community.univ.ai/courses/feature-processing/"
+next_workshop_name: "The Basic Concepts of Machine Learning"
+next_workshop_link: "https://community.univ.ai/courses/the-basic-concepts-of-machine-learning/"
 next_workshop_date: "Saturday 26th Feb at 10am IST"
 ---
 
