@@ -3,7 +3,7 @@ wsname: Pandas for Data Science
 topic: Pandas
 color: blue
 repo: PandasWorkshop
-main_notebook_file: Lec1_1.ipynb
+main_notebook_file: index.ipynb
 thread_main: "https://discourse.univ.ai/t/questions-for-the-pandas-workshop/10169/2"
 homework_notebook_file: Homework_PandasWorkshop.ipynb
 submission_date: "Sunday 27th Feb"
