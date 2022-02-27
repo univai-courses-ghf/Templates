@@ -35,3 +35,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 3. [after_commandline.md](after_commandline.md)
 4. [after_pandas_b1.md](after_pandas_b1.md)
 5. [after_classification_g1.md](after_classification_g1.md)
+6. [after_basicConcepts_g1.md](after_basicConcepts_g1.md)
+7. [after_regression_b1.md](after_regression_b1.md)
+8. [after_python_r1.md](after_python_r1.md)
