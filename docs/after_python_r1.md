@@ -1,5 +1,5 @@
 ---
-wsname: Python
+wsname: Basic Python
 topic: python
 color: red
 repo: PythonWorkshop
