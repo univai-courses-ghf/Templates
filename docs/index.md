@@ -38,3 +38,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 6. [after_basicConcepts_g1.md](after_basicConcepts_g1.md)
 7. [after_regression_b1.md](after_regression_b1.md)
 8. [after_python_r1.md](after_python_r1.md)
+9. [after_pythonenvironments.md](after_pythonenvironments.md)
