@@ -14,4 +14,4 @@ next_workshop_link: "https://community.univ.ai/courses/visualization-basics/"
 next_workshop_date: "Thursday 10th Mar at 9.30pm IST"
 ---
 
-{% include_relative _includes/afterotherworkshop.md %}
+{% include_relative _includes/afterpythonenvironmentsworkshop.md %}
