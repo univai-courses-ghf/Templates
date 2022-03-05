@@ -39,3 +39,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 7. [after_regression_b1.md](after_regression_b1.md)
 8. [after_python_r1.md](after_python_r1.md)
 9. [after_pythonenvironments.md](after_pythonenvironments.md)
+10. [after_featureProcessing_g1.md](after_featureProcessing_g1.md)
+11. [after_classification_b1.md](after_classification_b1.md)
+12. [after_pandas_r1.md](after_pandas_r1.md)
