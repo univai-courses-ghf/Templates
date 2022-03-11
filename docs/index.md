@@ -42,3 +42,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 10. [after_featureProcessing_g1.md](after_featureProcessing_g1.md)
 11. [after_classification_b1.md](after_classification_b1.md)
 12. [after_pandas_r1.md](after_pandas_r1.md)
+13. [after_visualizationbasics.md](after_visualizationbasics.md)
