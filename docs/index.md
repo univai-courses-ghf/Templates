@@ -43,3 +43,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 11. [after_classification_b1.md](after_classification_b1.md)
 12. [after_pandas_r1.md](after_pandas_r1.md)
 13. [after_visualizationbasics.md](after_visualizationbasics.md)
+14. [after_unsupervisedLearning_g1.md](after_unsupervisedLearning_g1.md)
+15. [after_regression_r1.md](after_regression_r1.md)
+16. [after_python_o1.md](after_python_o1.md)
