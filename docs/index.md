@@ -47,3 +47,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 15. [after_regression_r1.md](after_regression_r1.md)
 16. [after_python_o1.md](after_python_o1.md)
 17. [after_basicConcepts_b1.md](after_basicConcepts_b1.md)
+18. [after_treesAndEnsembles_g1.md](after_treesAndEnsembles_g1.md)
+19. [after_featureProcessing_b1.md](after_featureProcessing_b1.md)
+20. [after_classification_r1.md](after_classification_r1.md)
+21. [after_pandas_o1.md](after_pandas_o1.md)
