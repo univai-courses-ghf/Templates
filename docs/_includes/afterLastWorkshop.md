@@ -14,9 +14,9 @@ We are looking forward to answering your questions and seeing your homework resu
 
 With this workshop the {{page.color}} sequence of our Data Science Series has concluded.<br>
 
-You can join our [<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.svg" alt="Discord Logo" />](https://discord.gg/E4UATW84) **Community** where you will get latest updates of our future workshops and events.<br>
+You can join our [<img width="10%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.svg" alt="Discord Logo" />](https://discord.gg/E4UATW84) **Community** where you will get latest updates of our future workshops and events.<br>
 
-[<img width="30%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.svg" alt="Discord QR Code" />](https://discord.gg/E4UATW84)<br>
+[<img width="10%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.svg" alt="Discord QR Code" />](https://discord.gg/E4UATW84)<br>
 
 You can check out the calendar of the entire GHF Workshop Series [ **here**](https://community.univ.ai/sequences/). Click on any series on the left on that page to register for the workshops in it.<br>
 
