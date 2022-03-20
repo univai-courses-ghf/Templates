@@ -14,7 +14,7 @@ We are looking forward to answering your questions and seeing your homework resu
 
 With this workshop, the {{page.color}} sequence of our Data Science Series has concluded.<br>
 
-You can join our   &nbsp;&nbsp;[<img width="15%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.svg" alt="Discord Logo" />](https://discord.gg/E4UATW84)&nbsp;&nbsp;   **Community** where you will get the latest updates of our future workshops and events.<br>
+You can join our   &nbsp;&nbsp;[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.svg" alt="Discord Logo" />](https://discord.gg/E4UATW84)&nbsp;&nbsp;   **Community** where you will get the latest updates of our future workshops and events.<br>
 
 [<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.svg" alt="Discord QR Code" />](https://discord.gg/E4UATW84)<br>
 
