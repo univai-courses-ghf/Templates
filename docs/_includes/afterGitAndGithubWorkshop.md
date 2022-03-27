@@ -12,15 +12,15 @@ Here are some useful links to help you re-visit the material:
 
 We are looking forward to answering your questions and seeing your homework results!<br>
 
-You can join our   &nbsp;&nbsp;[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.png" alt="Discord Logo" />](https://discord.gg/pdMjsqGfkS)&nbsp;&nbsp;   **Community** where you will get the latest updates of our future workshops and events.<br>
-
-[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.png" alt="Discord QR Code" />](https://discord.gg/pdMjsqGfkS)<br>
-
 The next workshop in the {{page.color}} series is [{{page.next_workshop_name}}]({{page.next_workshop_link}}) (click the link to register) on {{page.next_workshop_date}}. Our entire current series of Operational Skills Workshops is below.<br>
 
 <img width="100%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/opstight.png" alt="Ops Series" /><br>
 
 You can check out the calendar of the entire GHF Workshop Series [ **here**](https://community.univ.ai/sequences/). Click on any series on the left on that page to register for the workshops in it.<br>
+
+You can join our   &nbsp;&nbsp;[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.png" alt="Discord Logo" />](https://discord.gg/pdMjsqGfkS)&nbsp;&nbsp;   **Community** where you will get the latest updates of our future workshops and events.<br>
+
+[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.png" alt="Discord QR Code" />](https://discord.gg/pdMjsqGfkS)<br>
 
 Thanks!<br>
 
