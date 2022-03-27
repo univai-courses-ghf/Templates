@@ -12,6 +12,10 @@ Here are some useful links to help you re-visit the material:
 
 We are looking forward to answering your questions and seeing your homework results!<br>
 
+You can join our   &nbsp;&nbsp;[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Discord-Logo%2BWordmark-Color.png" alt="Discord Logo" />](https://discord.gg/pdMjsqGfkS)&nbsp;&nbsp;   **Community** where you will get the latest updates of our future workshops and events.<br>
+
+[<img width="20%" src="https://raw.githubusercontent.com/univai-ghf/ghfmedia/main/images/Univ.AI%20Discord%20Server%20QR%20Code.png" alt="Discord QR Code" />](https://discord.gg/pdMjsqGfkS)<br>
+
 The next workshop in the {{page.color}} series is [{{page.next_workshop_name}}]({{page.next_workshop_link}}) (click the link to register) on {{page.next_workshop_date}}. Our entire current series of data science workshops is below. You can take any workshop as many times as you want; so if you feel you need to do any workshop again, just take it in another color series.<br>
 
 <img width="100%" src="https://github.com/univai-ghf/ghfmedia/raw/main/images/ds-series.png" alt="DS Series" /><br>
