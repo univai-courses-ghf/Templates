@@ -55,3 +55,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 23. [after_unsupervisedLearning_b1.md](after_unsupervisedLearning_b1.md)
 24. [after_basicConcepts_r1.md](after_basicConcepts_r1.md)
 25. [after_regression_o1.md](after_regression_o1.md)
+26. [after_githubPages.md](after_githubPages.md)
+27. [after_treesAndEnsembles_b1.md](after_treesAndEnsembles_b1.md)
+28. [after_featureProcessing_r1.md](after_featureProcessing_r1.md)
+29. [after_classification_o1.md](after_classification_o1.md)
