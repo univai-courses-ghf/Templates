@@ -59,3 +59,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 27. [after_treesAndEnsembles_b1.md](after_treesAndEnsembles_b1.md)
 28. [after_featureProcessing_r1.md](after_featureProcessing_r1.md)
 29. [after_classification_o1.md](after_classification_o1.md)
+30. [after_unsupervisedLearning_r1.md](after_unsupervisedLearning_r1.md)
+31. [after_basicConcepts_o1.md](after_basicConcepts_o1.md)
