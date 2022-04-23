@@ -64,3 +64,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 32. [after_VisualizationCommunication.md](after_VisualizationCommunication.md)
 33. [after_treesAndEnsembles_r1.md](after_treesAndEnsembles_r1.md)
 34. [after_featureProcessing_o1.md](after_featureProcessing_o1.md)
+35. [after_unsupervisedLearning_o1.md](after_unsupervisedLearning_o1.md)
